@@ -1,6 +1,8 @@
 # From Claims to Charts  
 ### Visual Analytics of USPTO Patent Data (2024–2025)
 
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
 **From Claims to Charts** is an end-to-end data analytics and visualization project that explores recent U.S. patenting activity using USPTO’s **PatentsView** dataset. The project combines large-scale data processing, statistical analysis, and interactive visualization to surface insights about innovation trends, technology domains, assignee behavior, and geographic patterns.
 
 🔗 **Live Dashboard:**  
@@ -73,4 +75,5 @@ M.Eng. Computer Science & Applications — Virginia Tech
 Background in Computer Science, Data Analytics, and Technology Policy
 
 This project was developed as part of **CS 5764 – Information Visualization**, but is designed and presented as a **production-quality data analytics portfolio project**.
+
 
